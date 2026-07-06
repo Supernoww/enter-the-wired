@@ -19,13 +19,13 @@ GreenLuma is a DLL injection tool for Windows that enables playing games not own
 ## Quick Install (Linux)
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/ciscosweater/enter-the-wired/main/enter-the-wired | bash
+curl -fsSL https://raw.githubusercontent.com/Supernoww/enter-the-wired/main/enter-the-wired | bash
 ```
 
 ## Quick Install (Windows)
 
 ```powershell
-irm https://raw.githubusercontent.com/ciscosweater/enter-the-wired/main/windows/enter-the-wired.ps1 | iex
+irm https://raw.githubusercontent.com/Supernoww/enter-the-wired/main/windows/enter-the-wired.ps1 | iex
 ```
 
 ## Scripts
